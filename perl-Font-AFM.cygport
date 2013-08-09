@@ -1,0 +1,11 @@
+CPAN_AUTHOR=gaas
+inherit perl
+
+NAME="perl-Font-AFM"
+VERSION=1.20
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl font metrics module"
+DESCRIPTION="This module implements the Font::AFM class. Objects of this class
+are initialised from an AFM-file and allows you to obtain information about
+the font and the metrics of the various glyphs in the font."
